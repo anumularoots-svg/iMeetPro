@@ -1,0 +1,43 @@
+{
+  "name": "Meeting App - Professional Video Conferencing",
+  "short_name": "Meeting App",
+  "description": "Professional video conferencing application with HD quality, screen sharing, and collaboration features",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1976d2",
+  "theme_color": "#1976d2",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["productivity", "communication", "business"],
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Start New Meeting",
+      "short_name": "New Meeting",
+      "description": "Start a new video meeting",
+      "url": "/meeting/new"
+    },
+    {
+      "name": "Join Meeting",
+      "short_name": "Join",
+      "description": "Join an existing meeting",
+      "url": "/join"
+    }
+  ],
+  "features": [
+    "Cross Platform",
+    "HD Video Quality",
+    "Screen Sharing",
+    "Real-time Chat",
+    "Recording",
+    "Breakout Rooms"
+  ]
+}

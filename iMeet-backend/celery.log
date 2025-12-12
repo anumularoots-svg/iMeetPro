@@ -1,0 +1,43 @@
+INFO 2025-11-04 10:58:23,942 celery.worker.consumer.connection 1051093 137662424938304 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 10:58:23,953 celery.worker.consumer.mingle 1051093 137662424938304 mingle: searching for neighbors
+INFO 2025-11-04 10:58:24,618 celery.worker.consumer.connection 1051271 139755037370176 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 10:58:24,622 celery.worker.consumer.mingle 1051271 139755037370176 mingle: searching for neighbors
+INFO 2025-11-04 10:58:24,967 celery.worker.consumer.mingle 1051093 137662424938304 mingle: all alone
+INFO 2025-11-04 10:58:25,632 celery.worker.consumer.mingle 1051271 139755037370176 mingle: all alone
+INFO 2025-11-04 11:14:34,906 celery.worker.consumer.connection 1262321 140629891417920 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 11:14:34,913 celery.worker.consumer.mingle 1262321 140629891417920 mingle: searching for neighbors
+INFO 2025-11-04 11:14:34,923 celery.worker.control 1051093 137662424938304 sync with video_worker@landevaiser
+INFO 2025-11-04 11:14:35,929 celery.worker.consumer.mingle 1262321 140629891417920 mingle: sync with 1 nodes
+INFO 2025-11-04 11:14:35,932 celery.worker.consumer.mingle 1262321 140629891417920 mingle: sync complete
+INFO 2025-11-04 11:14:37,514 celery.worker.consumer.connection 1260994 129577482512192 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 11:14:37,516 celery.worker.consumer.mingle 1260994 129577482512192 mingle: searching for neighbors
+INFO 2025-11-04 11:14:37,538 celery.worker.control 1262321 140629891417920 sync with default_worker@landevaiser
+INFO 2025-11-04 11:14:37,538 celery.worker.control 1051271 139755037370176 sync with default_worker@landevaiser
+INFO 2025-11-04 11:14:38,547 celery.worker.consumer.mingle 1260994 129577482512192 mingle: sync with 1 nodes
+INFO 2025-11-04 11:14:38,550 celery.worker.consumer.mingle 1260994 129577482512192 mingle: sync complete
+INFO 2025-11-04 11:25:35,922 celery.worker.consumer.connection 1407206 137452270360384 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 11:25:35,925 celery.worker.consumer.mingle 1407206 137452270360384 mingle: searching for neighbors
+INFO 2025-11-04 11:25:35,930 celery.worker.control 1051271 139755037370176 sync with default_worker@landevaiser
+INFO 2025-11-04 11:25:35,930 celery.worker.control 1262321 140629891417920 sync with default_worker@landevaiser
+INFO 2025-11-04 11:25:36,679 celery.worker.consumer.connection 1407380 126467604965184 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 11:25:36,683 celery.worker.consumer.mingle 1407380 126467604965184 mingle: searching for neighbors
+INFO 2025-11-04 11:25:36,692 celery.worker.control 1051093 137662424938304 sync with video_worker@landevaiser
+INFO 2025-11-04 11:25:36,692 celery.worker.control 1260994 129577482512192 sync with video_worker@landevaiser
+INFO 2025-11-04 11:25:36,938 celery.worker.consumer.mingle 1407206 137452270360384 mingle: sync with 1 nodes
+INFO 2025-11-04 11:25:36,941 celery.worker.consumer.mingle 1407206 137452270360384 mingle: sync complete
+INFO 2025-11-04 11:25:37,699 celery.worker.consumer.mingle 1407380 126467604965184 mingle: sync with 1 nodes
+INFO 2025-11-04 11:25:37,702 celery.worker.consumer.mingle 1407380 126467604965184 mingle: sync complete
+INFO 2025-11-04 11:37:05,667 celery.worker.consumer.connection 1556382 125953945618240 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 11:37:05,671 celery.worker.consumer.mingle 1556382 125953945618240 mingle: searching for neighbors
+INFO 2025-11-04 11:37:06,568 celery.worker.consumer.connection 1557510 138282167224128 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 11:37:06,574 celery.worker.consumer.mingle 1557510 138282167224128 mingle: searching for neighbors
+INFO 2025-11-04 11:37:06,679 celery.worker.consumer.mingle 1556382 125953945618240 mingle: all alone
+INFO 2025-11-04 11:37:07,586 celery.worker.consumer.mingle 1557510 138282167224128 mingle: all alone
+INFO 2025-11-04 11:39:43,589 celery.worker.consumer.connection 1592729 123663294404416 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 11:39:43,592 celery.worker.consumer.mingle 1592729 123663294404416 mingle: searching for neighbors
+INFO 2025-11-04 11:39:44,610 celery.worker.consumer.mingle 1592729 123663294404416 mingle: all alone
+INFO 2025-11-04 11:39:49,126 celery.worker.consumer.connection 1593585 132001420781376 Connected to redis://192.168.48.201:6379/0
+INFO 2025-11-04 11:39:49,130 celery.worker.consumer.mingle 1593585 132001420781376 mingle: searching for neighbors
+INFO 2025-11-04 11:39:49,138 celery.worker.control 1592729 123663294404416 sync with video_worker@landevaiser
+INFO 2025-11-04 11:39:50,144 celery.worker.consumer.mingle 1593585 132001420781376 mingle: sync with 1 nodes
+INFO 2025-11-04 11:39:50,147 celery.worker.consumer.mingle 1593585 132001420781376 mingle: sync complete

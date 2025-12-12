@@ -1,0 +1,39 @@
+INFO 2025-11-03 12:15:44,523 meetings 1822096 140060066301632 🛑 [BACKEND] Force stop request received for meeting: ab97dcb5-803d-4070-9f9b-a72cb358fc57
+INFO 2025-11-03 12:15:44,524 meetings 1822096 140060066301632 🛑 [BACKEND] Parameters: participant_id=None, name=Participant
+ERROR 2025-11-03 12:15:44,524 meetings 1822096 140060066301632 ❌ [BACKEND] Missing participant_id
+INFO 2025-11-03 12:26:34,514 meetings 1822096 140060066301632 🛑 [BACKEND] Force stop request received for meeting: 487c6c96-ad87-408f-ab9c-e91a03f45717
+INFO 2025-11-03 12:26:34,515 meetings 1822096 140060066301632 🛑 [BACKEND] Parameters: participant_id=None, name=Participant
+ERROR 2025-11-03 12:26:34,515 meetings 1822096 140060066301632 ❌ [BACKEND] Missing participant_id
+INFO 2025-11-03 13:07:45,855 meetings 2435922 125209322452672 🛑 [BACKEND] Force stop request received for meeting: 3165266f-6a66-4234-8319-5cd6fb431781
+INFO 2025-11-03 13:07:45,857 meetings 2435922 125209322452672 🛑 [BACKEND] Parameters: participant_id=None, name=Participant
+ERROR 2025-11-03 13:07:45,857 meetings 2435922 125209322452672 ❌ [BACKEND] Missing participant_id
+INFO 2025-11-03 13:14:26,746 meetings 2618308 138173535200960 🛑 [BACKEND] Force stop request received for meeting: 49cde410-2808-4101-9f5f-de9217285d44
+INFO 2025-11-03 13:14:26,747 meetings 2618308 138173535200960 🛑 [BACKEND] Parameters: participant_id=None, name=Participant
+ERROR 2025-11-03 13:14:26,747 meetings 2618308 138173535200960 ❌ [BACKEND] Missing participant_id
+INFO 2025-11-03 15:36:40,688 meetings 105630 139006629115584 ================================================================================
+INFO 2025-11-03 15:36:40,688 meetings 105630 139006629115584 🛑 FORCE STOP SCREEN SHARE REQUEST RECEIVED
+INFO 2025-11-03 15:36:40,688 meetings 105630 139006629115584 ================================================================================
+INFO 2025-11-03 15:36:40,688 meetings 105630 139006629115584 📋 Request Parameters:
+INFO 2025-11-03 15:36:40,688 meetings 105630 139006629115584    - Meeting ID: d8687aad-8e5e-4ba7-9e88-5f36d67099e5
+INFO 2025-11-03 15:36:40,688 meetings 105630 139006629115584    - User ID: None
+INFO 2025-11-03 15:36:40,688 meetings 105630 139006629115584    - Participant Name: Participant
+INFO 2025-11-03 15:36:40,689 meetings 105630 139006629115584    - Request Body: {'participant_name': 'Participant'}
+ERROR 2025-11-03 15:36:40,689 meetings 105630 139006629115584 ❌ Missing user_id in request
+INFO 2025-11-03 15:38:23,981 meetings 105630 139006620722880 ================================================================================
+INFO 2025-11-03 15:38:23,981 meetings 105630 139006620722880 🛑 FORCE STOP SCREEN SHARE REQUEST RECEIVED
+INFO 2025-11-03 15:38:23,981 meetings 105630 139006620722880 ================================================================================
+INFO 2025-11-03 15:38:23,981 meetings 105630 139006620722880 📋 Request Parameters:
+INFO 2025-11-03 15:38:23,981 meetings 105630 139006620722880    - Meeting ID: d8687aad-8e5e-4ba7-9e88-5f36d67099e5
+INFO 2025-11-03 15:38:23,981 meetings 105630 139006620722880    - User ID: None
+INFO 2025-11-03 15:38:23,981 meetings 105630 139006620722880    - Participant Name: Participant
+INFO 2025-11-03 15:38:23,981 meetings 105630 139006620722880    - Request Body: {'participant_name': 'Participant'}
+ERROR 2025-11-03 15:38:23,981 meetings 105630 139006620722880 ❌ Missing user_id in request
+INFO 2025-11-03 15:38:48,754 meetings 105630 139007186687680 ================================================================================
+INFO 2025-11-03 15:38:48,754 meetings 105630 139007186687680 🛑 FORCE STOP SCREEN SHARE REQUEST RECEIVED
+INFO 2025-11-03 15:38:48,754 meetings 105630 139007186687680 ================================================================================
+INFO 2025-11-03 15:38:48,755 meetings 105630 139007186687680 📋 Request Parameters:
+INFO 2025-11-03 15:38:48,755 meetings 105630 139007186687680    - Meeting ID: d8687aad-8e5e-4ba7-9e88-5f36d67099e5
+INFO 2025-11-03 15:38:48,755 meetings 105630 139007186687680    - User ID: None
+INFO 2025-11-03 15:38:48,755 meetings 105630 139007186687680    - Participant Name: Participant
+INFO 2025-11-03 15:38:48,755 meetings 105630 139007186687680    - Request Body: {'participant_name': 'Participant'}
+ERROR 2025-11-03 15:38:48,755 meetings 105630 139007186687680 ❌ Missing user_id in request

@@ -1,0 +1,94 @@
+2025-12-05 10:19:31,744 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 10:19:42,859 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 10:19:42,860 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 10:19:44,588 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 10:19:54,979 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 10:19:54,979 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 11:04:22,800 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 11:04:37,817 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 11:04:37,818 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 11:42:32,370 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 11:48:01,233 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 11:48:11,490 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 11:48:11,491 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 11:48:12,711 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 11:48:24,996 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 11:48:24,997 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 11:52:01,461 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 11:52:11,812 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 11:52:11,813 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 11:52:13,009 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 11:52:24,769 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 11:52:24,769 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 11:54:08,512 [INFO] end_meeting_hand_raise:351 - 🗑 DELETED all hand raise data for meeting 756l-3h2p-1fj
+2025-12-05 11:54:08,513 [INFO] end_meeting_hand_raise:352 -    - Final stats: None
+2025-12-05 11:54:08,513 [INFO] end_meeting_hand_raise:353 -    - Redis keys deleted: 0
+2025-12-05 11:54:11,836 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 756l-3h2p-1fj
+2025-12-05 11:54:13,568 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 756l-3h2p-1fj
+2025-12-05 11:54:15,564 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 756l-3h2p-1fj
+2025-12-05 11:54:16,665 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 756l-3h2p-1fj
+2025-12-05 11:54:17,555 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 756l-3h2p-1fj
+2025-12-05 11:54:19,567 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 756l-3h2p-1fj
+2025-12-05 11:54:21,820 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 756l-3h2p-1fj
+2025-12-05 11:54:21,840 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 756l-3h2p-1fj
+2025-12-05 12:09:46,097 [INFO] end_meeting_hand_raise:351 - 🗑 DELETED all hand raise data for meeting tviz-grnk-4mz
+2025-12-05 12:09:46,097 [INFO] end_meeting_hand_raise:352 -    - Final stats: None
+2025-12-05 12:09:46,097 [INFO] end_meeting_hand_raise:353 -    - Redis keys deleted: 0
+2025-12-05 12:09:49,197 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:09:51,207 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:09:53,137 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:09:54,186 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:09:55,146 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:09:57,166 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:09:59,192 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:09:59,204 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:01,147 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:03,166 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:04,147 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:05,137 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:07,181 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:09,186 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:09,276 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:11,142 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:13,138 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:14,140 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:15,153 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:17,151 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:19,367 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:19,375 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:21,138 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:23,150 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:24,148 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:25,142 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:27,153 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:29,165 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:29,173 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:31,199 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:33,133 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:34,129 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:35,127 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:37,130 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:39,293 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:10:39,301 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: tviz-grnk-4mz
+2025-12-05 12:15:03,290 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 12:19:42,185 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 12:19:52,296 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 12:19:52,296 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 12:25:31,737 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 12:25:44,126 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 12:25:44,126 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 12:25:45,923 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 12:25:57,043 [INFO] <module>:34 - ✅ Cache-only hand raise Redis connected successfully
+2025-12-05 12:25:57,043 [INFO] __init__:62 - ✋ Cache-only hand raise manager initialized: Enabled
+2025-12-05 12:26:19,410 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 12:30:46,558 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 12:32:31,448 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 12:36:52,366 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 12:43:39,483 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 12:49:05,017 [INFO] configure_enhanced_logging:584 - ✅ Enhanced cache hand raise logging active
+2025-12-05 13:05:10,130 [INFO] end_meeting_hand_raise:351 - 🗑 DELETED all hand raise data for meeting 768l-ljwm-j36
+2025-12-05 13:05:10,131 [INFO] end_meeting_hand_raise:352 -    - Final stats: None
+2025-12-05 13:05:10,131 [INFO] end_meeting_hand_raise:353 -    - Redis keys deleted: 0
+2025-12-05 13:05:15,211 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 768l-ljwm-j36
+2025-12-05 13:05:17,202 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 768l-ljwm-j36
+2025-12-05 13:05:19,199 [INFO] start_meeting_hand_raise:100 - ✋ Started cache-only hand raise for meeting: 768l-ljwm-j36

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Professional Video Meeting Application - Google Meet alternative with advanced features" />
+  <meta name="keywords" content="video meeting, video conference, webrtc, online meeting, collaboration" />
+  <meta name="author" content="Meeting App Team" />
+  
+  <!-- SEO Meta Tags -->
+  <meta property="og:title" content="Meeting App - Professional Video Conferencing" />
+  <meta property="og:description" content="Join or host professional video meetings with HD quality, screen sharing, and real-time collaboration features." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://your-domain.com" />
+  
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Meeting App - Professional Video Conferencing" />
+  <meta name="twitter:description" content="Join or host professional video meetings with HD quality, screen sharing, and real-time collaboration features." />
+  
+  <!-- Basic Favicon (only if you have it) -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  
+  <!-- Manifest for PWA -->
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="theme-color" content="#1976d2" />
+  
+  <!-- Preconnect to external domains -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  
+  <!-- Material Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  
+  <!-- CSS Variables for theming -->
+  <style>
+    :root {
+      --primary-color: #1976d2;
+      --secondary-color: #dc004e;
+      --background-color: #ffffff;
+      --surface-color: #f5f5f5;
+      --text-primary: #333333;
+      --text-secondary: #666666;
+      --border-color: #e0e0e0;
+      --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    
+    [data-theme="dark"] {
+      --background-color: #1976d2;
+      --surface-color: #ccd0d4;
+      --text-primary: #ffffff;
+      --text-secondary: #b3b3b3;
+      --border-color: #333333;
+      --shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    }
+    
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+      background-color: var(--background-color);
+      color: var(--text-primary);
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+    
+    #root {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .loading-screen {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #1976d2;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+      transition: opacity 0.5s ease-out;
+    }
+
+    .loading-screen.fade-out {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .loading-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 30px;
+    }
+
+    .loader {
+      transform: rotateZ(45deg);
+      perspective: 1000px;
+      border-radius: 50%;
+      width: 48px;
+      height: 48px;
+      color: #fff;
+      position: relative;
+    }
+
+    .loader:before,
+    .loader:after {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: inherit;
+      height: inherit;
+      border-radius: 50%;
+      transform: rotateX(70deg);
+      animation: 1s spin linear infinite;
+    }
+
+    .loader:after {
+      color: #000;
+      transform: rotateY(70deg);
+      animation-delay: .1s;
+    }
+
+    @keyframes spin {
+      0%, 100% {
+        box-shadow: .2em 0px 0 0px currentcolor;
+      }
+      12% {
+        box-shadow: .2em .2em 0 0 currentcolor;
+      }
+      25% {
+        box-shadow: 0 .2em 0 0px currentcolor;
+      }
+      37% {
+        box-shadow: -.2em .2em 0 0 currentcolor;
+      }
+      50% {
+        box-shadow: -.2em 0 0 0 currentcolor;
+      }
+      62% {
+        box-shadow: -.2em -.2em 0 0 currentcolor;
+      }
+      75% {
+        box-shadow: 0px -.2em 0 0 currentcolor;
+      }
+      87% {
+        box-shadow: .2em -.2em 0 0 currentcolor;
+      }
+    }
+
+    .loading-text {
+      color: #ffffff;
+      font-size: 18px;
+      font-weight: 500;
+      letter-spacing: 1px;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.6;
+      }
+    }
+  </style>
+  
+  <title>IMeetPro - Professional Video Conferencing</title>
+</head>
+<body>
+  <!-- Loading Screen -->
+  <div class="loading-screen" id="loading-screen">
+    <div class="loading-container">
+      <div class="loader"></div>
+      <div class="loading-text">Loading <Span style="color: yellow;"> I</Span>MeetPro...</div>
+    </div>
+  </div>
+  
+  <!-- Main App Container -->
+  <div id="root"></div>
+  
+  <script>
+    // Hide loading screen when page is fully loaded
+    window.addEventListener('load', () => {
+      const loadingScreen = document.getElementById('loading-screen');
+      loadingScreen.classList.add('fade-out');
+      
+      // Remove from DOM after fade animation completes
+      setTimeout(() => {
+        loadingScreen.style.display = 'none';
+      }, 500);
+    });
+
+    // Fallback: Hide after maximum 10 seconds even if load event doesn't fire
+    setTimeout(() => {
+      const loadingScreen = document.getElementById('loading-screen');
+      if (loadingScreen && !loadingScreen.classList.contains('fade-out')) {
+        loadingScreen.classList.add('fade-out');
+        setTimeout(() => {
+          loadingScreen.style.display = 'none';
+        }, 500);
+      }
+    }, 10000);
+
+    // Theme detection and setting
+    function setTheme() {
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const savedTheme = localStorage.getItem('theme');
+      const theme = savedTheme || (prefersDark ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', theme);
+    }
+    
+    // Set initial theme
+    setTheme();
+    
+    // Listen for theme changes
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
+  </script>
+  
+  <!-- Load the React app -->
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+</html>

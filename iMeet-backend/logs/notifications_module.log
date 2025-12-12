@@ -1,0 +1,1128 @@
+2025-12-05 10:19:31,745 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 10:19:44,589 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 11:04:22,800 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 11:42:32,370 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 11:48:01,233 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 11:48:12,712 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 11:52:01,461 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 11:52:13,010 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 11:53:56,133 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:53:56,151 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:53:56,158 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:53:56,237 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:53:56,244 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:53:56,247 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:53:56,319 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:53:56,327 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:53:56,332 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:53:56,375 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:53:56,385 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:53:56,388 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:54:20,338 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:54:20,349 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:54:20,353 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:54:25,430 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:54:25,440 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:54:25,443 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:54:25,505 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:54:25,514 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:54:25,518 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:54:55,289 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:54:55,297 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:54:55,300 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:54:55,428 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:54:55,437 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:54:55,441 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:54:55,481 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:54:55,492 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:54:55,495 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:54:55,553 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:54:55,562 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:54:55,564 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:55:25,161 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:55:25,170 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:55:25,173 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:55:25,231 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:55:25,240 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:55:25,243 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:55:25,313 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:55:25,321 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:55:25,325 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:55:25,366 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:55:25,379 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:55:25,382 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:55:55,226 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:55:55,235 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:55:55,237 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:55:55,266 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:55:55,275 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:55:55,279 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:55:55,321 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:55:55,330 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:55:55,333 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:55:55,366 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:55:55,378 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:55:55,381 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:56:25,245 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:56:25,256 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:56:25,259 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:56:25,284 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:56:25,293 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:56:25,296 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:56:25,343 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:56:25,351 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:56:25,354 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:56:25,384 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:56:25,391 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:56:25,393 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:56:55,227 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:56:55,237 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:56:55,240 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:56:55,274 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:56:55,283 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:56:55,286 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:56:55,326 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:56:55,334 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:56:55,337 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:56:55,370 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:56:55,377 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:56:55,379 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:57:25,925 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:57:25,933 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:57:25,936 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:57:26,396 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:57:26,404 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:57:26,407 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:57:26,631 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:57:26,640 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:57:26,642 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:57:27,223 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:57:27,232 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:57:27,235 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:58:50,217 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:58:50,230 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:58:50,237 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:58:50,260 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:58:50,270 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:58:50,273 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:58:50,306 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:58:50,315 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:58:50,319 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:58:50,338 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:58:50,345 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:58:50,347 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:59:50,211 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:59:50,221 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:59:50,224 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:59:50,265 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:59:50,274 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:59:50,277 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:59:50,314 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:59:50,323 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:59:50,325 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 11:59:50,355 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 11:59:50,366 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 11:59:50,369 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:00:50,209 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:00:50,217 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:00:50,220 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:00:50,265 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:00:50,273 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:00:50,276 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:00:50,328 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:00:50,339 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:00:50,341 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:00:50,375 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:00:50,382 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:00:50,384 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:01:50,192 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:01:50,201 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:01:50,204 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:01:50,231 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:01:50,239 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:01:50,242 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:01:50,284 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:01:50,291 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:01:50,293 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:01:50,331 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:01:50,340 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:01:50,343 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:02:50,286 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:02:50,295 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:02:50,298 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:02:50,399 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:02:50,407 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:02:50,410 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:02:50,534 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:02:50,542 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:02:50,545 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:02:50,656 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:02:50,663 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:02:50,666 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:03:50,179 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:03:50,188 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:03:50,190 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:03:50,248 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:03:50,257 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:03:50,259 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:03:50,297 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:03:50,305 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:03:50,308 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:03:50,346 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:03:50,352 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:03:50,355 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:04:50,217 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:04:50,227 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:04:50,229 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:04:50,268 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:04:50,276 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:04:50,279 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:04:50,314 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:04:50,323 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:04:50,326 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:04:50,354 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:04:50,362 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:04:50,365 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:05:50,167 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:05:50,176 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:05:50,179 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:05:50,201 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:05:50,210 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:05:50,213 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:05:50,258 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:05:50,266 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:05:50,269 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:05:50,301 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:05:50,309 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:05:50,311 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:06:50,155 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:06:50,168 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:06:50,171 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:06:50,206 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:06:50,227 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:06:50,231 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:06:50,268 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:06:50,276 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:06:50,279 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:06:50,334 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:06:50,343 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:06:50,347 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:07:50,150 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:07:50,159 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:07:50,162 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:07:50,208 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:07:50,218 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:07:50,221 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:07:50,260 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:07:50,269 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:07:50,272 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:07:50,315 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:07:50,322 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:07:50,325 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:08:50,208 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:08:50,218 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:08:50,221 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:08:50,273 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:08:50,283 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:08:50,286 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:08:50,354 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:08:50,363 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:08:50,366 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:08:50,412 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:08:50,420 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:08:50,423 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:09:28,923 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:09:28,933 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:09:28,935 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:09:28,963 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:09:28,974 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:09:28,978 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:09:29,036 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:09:29,043 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:09:29,045 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:09:29,096 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:09:29,103 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:09:29,106 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:09:55,128 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:09:55,137 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:09:55,139 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:10:25,044 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:10:25,052 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:10:25,055 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:10:41,353 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:10:41,361 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:10:41,364 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:10:41,405 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:10:41,411 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:10:41,414 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:11:11,340 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:11:11,348 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:11:11,351 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:11:11,391 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:11:11,399 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:11:11,401 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:11:11,436 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:11:11,445 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:11:11,448 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:11:11,490 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:11:11,497 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:11:11,500 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:11:41,317 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:11:41,325 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:11:41,329 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:11:41,380 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:11:41,387 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:11:41,390 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:11:41,433 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:11:41,441 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:11:41,444 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:11:41,486 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:11:41,493 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:11:41,496 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:12:11,403 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:12:11,412 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:12:11,414 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:12:11,526 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:12:11,537 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:12:11,540 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:12:11,678 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:12:11,685 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:12:11,688 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:12:11,812 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:12:11,820 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:12:11,822 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:12:42,135 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:12:42,143 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:12:42,146 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:12:42,200 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:12:42,211 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:12:42,214 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:12:42,255 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:12:42,263 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:12:42,265 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:12:42,308 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:12:42,314 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:12:42,317 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:13:12,135 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:13:12,143 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:13:12,146 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:13:12,189 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:13:12,196 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:13:12,199 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:13:12,235 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:13:12,243 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:13:12,247 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:13:12,339 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:13:12,347 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:13:12,350 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:13:42,116 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:13:42,124 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:13:42,127 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:13:42,163 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:13:42,172 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:13:42,174 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:13:42,209 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:13:42,217 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:13:42,220 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:13:42,259 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:13:42,266 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:13:42,268 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:14:21,292 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:14:21,301 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:14:21,304 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:14:21,371 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:14:21,382 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:14:21,385 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:14:21,409 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:14:21,418 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:14:21,421 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:14:21,483 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:14:21,491 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:14:21,494 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:14:42,115 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:14:42,123 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:14:42,125 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:14:42,169 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:14:42,177 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:14:42,181 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:14:42,219 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:14:42,227 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:14:42,230 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:14:42,343 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:14:42,351 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:14:42,354 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:15:03,290 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:15:12,110 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:15:12,118 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:15:12,120 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:15:12,169 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:15:12,177 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:15:12,180 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:15:12,208 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:15:12,214 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:15:12,217 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:15:12,260 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:15:12,268 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:15:12,271 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:15:50,111 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:15:50,120 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:15:50,122 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:15:50,175 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:15:50,183 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:15:50,186 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:15:50,248 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:15:50,255 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:15:50,257 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:15:50,309 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:15:50,316 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:15:50,319 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:16:50,088 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:16:50,098 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:16:50,101 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:16:50,137 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:16:50,145 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:16:50,148 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:16:50,217 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:16:50,225 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:16:50,227 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:16:50,287 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:16:50,294 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:16:50,296 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:17:50,148 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:17:50,158 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:17:50,160 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:17:50,244 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:17:50,252 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:17:50,255 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:17:50,288 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:17:50,296 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:17:50,299 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:17:50,345 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:17:50,352 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:17:50,356 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:18:50,089 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:18:50,098 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:18:50,101 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:18:50,143 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:18:50,154 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:18:50,158 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:18:50,189 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:18:50,196 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:18:50,199 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:18:50,235 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:18:50,243 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:18:50,247 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:19:42,185 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:19:53,566 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:19:53,597 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:19:53,602 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:19:53,655 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:19:53,674 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:19:53,676 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:20:22,028 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:20:22,038 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:20:22,040 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:20:22,115 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:20:22,124 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:20:22,127 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:20:22,201 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:20:22,209 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:20:22,212 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:20:22,308 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:20:22,315 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:20:22,318 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:20:52,015 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:20:52,025 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:20:52,028 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:20:52,076 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:20:52,084 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:20:52,086 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:20:52,124 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:20:52,133 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:20:52,136 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:20:52,172 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:20:52,180 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:20:52,182 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:21:22,018 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:21:22,028 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:21:22,030 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:21:22,065 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:21:22,074 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:21:22,077 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:21:22,110 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:21:22,118 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:21:22,121 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:21:22,152 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:21:22,159 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:21:22,161 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:21:52,084 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:21:52,093 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:21:52,096 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:21:52,164 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:21:52,173 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:21:52,176 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:21:52,208 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:21:52,216 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:21:52,219 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:21:52,257 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:21:52,266 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:21:52,269 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:22:22,093 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:22:22,102 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:22:22,105 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:22:22,145 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:22:22,153 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:22:22,156 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:22:22,192 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:22:22,201 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:22:22,204 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:22:22,246 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:22:22,255 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:22:22,258 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:22:52,070 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:22:52,078 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:22:52,081 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:22:52,122 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:22:52,132 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:22:52,135 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:22:52,181 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:22:52,189 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:22:52,191 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:22:52,234 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:22:52,240 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:22:52,243 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:23:50,066 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:23:50,075 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:23:50,078 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:23:50,118 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:23:50,126 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:23:50,129 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:23:50,218 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:23:50,226 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:23:50,229 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:23:50,267 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:23:50,274 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:23:50,276 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:24:50,054 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:24:50,062 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:24:50,065 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:24:50,125 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:24:50,135 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:24:50,138 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:24:50,222 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:24:50,229 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:24:50,232 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:24:50,305 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:24:50,313 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:24:50,315 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:25:31,737 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:25:45,923 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:25:57,734 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:25:57,743 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:25:57,745 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:25:57,776 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:25:57,786 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:25:57,790 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:25:57,834 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:25:57,842 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:25:57,845 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:25:57,881 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:25:57,889 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:25:57,892 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:26:19,410 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:26:50,039 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:26:50,048 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:26:50,051 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:26:50,085 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:26:50,094 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:26:50,097 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:26:50,136 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:26:50,145 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:26:50,148 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:26:50,193 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:26:50,202 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:26:50,204 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:27:50,056 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:27:50,066 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:27:50,068 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:27:50,107 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:27:50,115 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:27:50,118 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:27:50,161 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:27:50,169 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:27:50,172 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:27:50,203 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:27:50,211 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:27:50,213 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:28:50,038 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:28:50,047 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:28:50,050 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:28:50,085 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:28:50,094 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:28:50,098 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:28:50,186 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:28:50,195 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:28:50,198 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:28:50,250 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:28:50,263 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:28:50,266 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:29:50,022 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:29:50,033 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:29:50,036 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:29:50,074 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:29:50,082 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:29:50,085 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:29:50,130 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:29:50,138 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:29:50,141 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:29:50,173 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:29:50,179 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:29:50,182 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:30:46,558 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:30:50,009 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:30:50,020 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:30:50,023 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:30:50,060 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:30:50,068 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:30:50,070 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:30:50,105 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:30:50,113 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:30:50,116 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:30:50,158 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:30:50,166 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:30:50,168 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:31:49,998 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:31:50,010 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:31:50,012 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:31:50,053 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:31:50,061 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:31:50,064 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:31:50,101 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:31:50,109 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:31:50,112 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:31:50,140 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:31:50,150 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:31:50,153 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:32:31,448 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:32:50,011 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:32:50,022 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:32:50,025 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:32:50,181 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:32:50,190 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:32:50,193 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:32:50,285 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:32:50,293 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:32:50,296 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:32:50,347 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:32:50,355 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:32:50,358 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:33:49,990 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:33:49,998 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:33:50,001 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:33:50,035 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:33:50,044 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:33:50,047 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:33:50,084 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:33:50,093 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:33:50,096 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:33:50,131 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:33:50,141 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:33:50,145 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:34:50,002 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:34:50,012 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:34:50,015 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:34:50,039 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:34:50,047 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:34:50,050 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:34:50,084 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:34:50,093 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:34:50,096 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:34:50,130 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:34:50,142 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:34:50,147 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:35:49,976 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:35:49,985 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:35:49,988 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:35:50,025 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:35:50,034 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:35:50,037 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:35:50,084 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:35:50,092 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:35:50,095 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:35:50,130 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:35:50,139 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:35:50,142 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:36:49,962 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:36:49,971 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:36:49,974 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:36:50,028 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:36:50,036 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:36:50,038 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:36:50,077 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:36:50,084 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:36:50,087 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:36:50,106 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:36:50,116 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:36:50,120 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:36:52,366 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:37:49,957 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:37:49,967 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:37:49,970 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:37:49,993 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:37:50,003 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:37:50,009 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:37:50,046 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:37:50,054 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:37:50,056 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:37:50,111 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:37:50,119 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:37:50,122 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:38:49,994 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:38:50,003 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:38:50,009 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:38:50,030 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:38:50,037 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:38:50,039 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:38:50,076 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:38:50,084 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:38:50,087 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:38:50,121 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:38:50,130 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:38:50,132 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:39:49,948 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:39:49,958 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:39:49,960 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:39:49,988 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:39:49,995 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:39:49,998 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:39:50,035 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:39:50,043 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:39:50,046 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:39:50,070 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:39:50,077 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:39:50,079 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:40:49,953 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:40:49,962 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:40:49,965 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:40:50,010 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:40:50,019 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:40:50,021 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:40:50,060 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:40:50,068 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:40:50,071 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:40:50,112 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:40:50,119 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:40:50,122 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:41:50,071 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:41:50,081 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:41:50,085 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:41:50,145 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:41:50,156 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:41:50,158 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:41:50,268 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:41:50,276 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:41:50,278 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:41:50,391 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:41:50,399 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:41:50,402 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:42:49,957 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:42:49,964 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:42:49,967 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:42:49,993 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:42:50,002 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:42:50,005 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:42:50,051 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:42:50,058 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:42:50,060 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:42:50,091 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:42:50,099 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:42:50,102 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:43:39,483 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:43:49,947 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:43:49,956 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:43:49,959 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:43:50,011 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:43:50,018 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:43:50,021 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:43:50,096 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:43:50,104 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:43:50,107 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:43:50,217 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:43:50,225 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:43:50,228 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:44:49,911 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:44:49,919 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:44:49,922 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:44:50,000 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:44:50,010 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:44:50,014 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:44:50,122 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:44:50,131 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:44:50,134 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:44:50,172 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:44:50,180 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:44:50,182 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:45:50,237 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:45:50,246 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:45:50,249 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:45:50,410 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:45:50,419 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:45:50,422 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:45:50,510 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:45:50,519 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:45:50,521 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:45:50,540 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:45:50,548 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:45:50,551 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:46:49,911 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:46:49,920 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:46:49,923 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:46:49,957 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:46:49,966 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:46:49,969 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:46:50,011 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:46:50,019 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:46:50,022 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:46:50,093 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:46:50,102 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:46:50,105 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:47:49,902 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:47:49,911 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:47:49,915 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:47:49,947 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:47:49,957 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:47:49,960 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:47:50,001 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:47:50,015 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:47:50,018 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:47:50,060 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:47:50,068 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:47:50,071 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:48:49,903 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:48:49,912 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:48:49,915 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:48:49,943 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:48:49,952 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:48:49,955 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:48:50,005 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:48:50,017 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:48:50,020 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:48:50,089 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:48:50,098 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:48:50,101 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:49:05,017 [INFO] configure_enhanced_logging:587 - ✅ Enhanced notifications logging active
+2025-12-05 12:49:49,886 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:49:49,894 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:49:49,897 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:49:49,919 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:49:49,929 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:49:49,933 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:49:49,962 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:49:49,972 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:49:49,974 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:49:49,993 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:49:50,002 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:49:50,010 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:50:49,890 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:50:49,899 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:50:49,902 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:50:49,947 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:50:49,958 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:50:49,961 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:50:49,997 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:50:50,008 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:50:50,010 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:50:50,036 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:50:50,044 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:50:50,047 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:51:49,869 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:51:49,879 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:51:49,881 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:51:49,907 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:51:49,917 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:51:49,919 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:51:49,952 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:51:49,961 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:51:49,964 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:51:50,018 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:51:50,027 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:51:50,030 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:52:49,943 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:52:49,952 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:52:49,954 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:52:50,045 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:52:50,053 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:52:50,056 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:52:50,133 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:52:50,141 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:52:50,143 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:52:50,174 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:52:50,183 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:52:50,186 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:53:49,969 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:53:49,978 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:53:49,981 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:53:50,012 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:53:50,019 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:53:50,022 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:53:50,061 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:53:50,070 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:53:50,074 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:53:50,124 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:53:50,133 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:53:50,137 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:54:49,859 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:54:49,868 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:54:49,871 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:54:49,921 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:54:49,930 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:54:49,933 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:54:49,971 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:54:49,979 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:54:49,982 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:54:50,023 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:54:50,033 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:54:50,036 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:55:49,858 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:55:49,867 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:55:49,870 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:55:49,911 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:55:49,920 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:55:49,923 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:55:49,960 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:55:49,970 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:55:49,973 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:55:50,015 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:55:50,023 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:55:50,026 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:56:49,870 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:56:49,878 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:56:49,880 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:56:49,907 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:56:49,916 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:56:49,919 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:56:49,966 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:56:49,975 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:56:49,977 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:56:50,017 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:56:50,025 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:56:50,028 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:57:49,873 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:57:49,882 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:57:49,885 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:57:49,924 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:57:49,933 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:57:49,936 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:57:49,991 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:57:50,001 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:57:50,005 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:57:50,047 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:57:50,057 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:57:50,060 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:58:37,753 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:58:37,762 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:58:37,766 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:58:37,803 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:58:37,811 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:58:37,814 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:58:37,858 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:58:37,867 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:58:37,869 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:58:37,914 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:58:37,922 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:58:37,925 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:58:51,782 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:58:51,792 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:58:51,795 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:58:51,823 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:58:51,833 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:58:51,837 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:58:51,873 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:58:51,881 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:58:51,883 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:58:51,912 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:58:51,920 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:58:51,923 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:59:12,318 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:59:12,338 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:59:12,344 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:59:12,409 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:59:12,417 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:59:12,420 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:59:12,487 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:59:12,497 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:59:12,502 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:59:12,549 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:59:12,556 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:59:12,559 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:59:21,782 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:59:21,793 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:59:21,797 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:59:42,284 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:59:42,293 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:59:42,296 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:59:42,370 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:59:42,379 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:59:42,382 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:59:42,432 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:59:42,445 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:59:42,448 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 12:59:51,779 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 12:59:51,787 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 12:59:51,790 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:00:12,324 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:00:12,333 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:00:12,336 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:00:12,434 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:00:12,443 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:00:12,446 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:00:12,521 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:00:12,529 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:00:12,532 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:00:21,766 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:00:21,775 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:00:21,777 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:00:42,269 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:00:42,279 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:00:42,282 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:00:42,341 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:00:42,352 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:00:42,354 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:00:42,392 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:00:42,400 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:00:42,403 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:00:51,759 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:00:51,770 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:00:51,773 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:01:12,286 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:01:12,297 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:01:12,300 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:01:12,351 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:01:12,362 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:01:12,365 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:01:12,400 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:01:12,410 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:01:12,413 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:01:21,780 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:01:21,788 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:01:21,790 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:01:42,261 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:01:42,271 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:01:42,274 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:01:42,313 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:01:42,321 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:01:42,324 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:01:42,349 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:01:42,357 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:01:42,360 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:01:51,770 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:01:51,780 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:01:51,782 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:02:12,261 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:02:12,272 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:02:12,275 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:02:12,308 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:02:12,317 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:02:12,321 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:02:12,375 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:02:12,384 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:02:12,386 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:02:21,772 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:02:21,781 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:02:21,784 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:02:42,289 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:02:42,299 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:02:42,302 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:02:42,362 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:02:42,371 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:02:42,374 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:02:42,410 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:02:42,420 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:02:42,423 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:02:51,766 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:02:51,776 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:02:51,779 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:03:12,256 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:03:12,266 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:03:12,268 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:03:12,304 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:03:12,314 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:03:12,318 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:03:12,358 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:03:12,366 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:03:12,369 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:03:21,764 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:03:21,772 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:03:21,775 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:03:51,748 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:03:51,757 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:03:51,760 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:04:21,745 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:04:21,754 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:04:21,756 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:04:37,787 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:04:37,797 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:04:37,801 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:04:37,850 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:04:37,867 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:04:37,878 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:04:37,962 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:04:37,975 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:04:37,979 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:04:38,029 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:04:38,036 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:04:38,039 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:04:51,744 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:04:51,753 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:04:51,756 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:05:20,166 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:05:20,179 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:05:20,188 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:05:20,236 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:05:20,247 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:05:20,256 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:05:20,340 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:05:20,353 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:05:20,356 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:05:20,421 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:05:20,429 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:05:20,435 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:05:21,758 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:05:21,766 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:05:21,768 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:05:50,784 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:05:50,793 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:05:50,796 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:05:50,833 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:05:50,841 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:05:50,844 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:05:50,879 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:05:50,887 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:05:50,890 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:05:51,784 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:05:51,795 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:05:51,798 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:06:20,791 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:06:20,801 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:06:20,804 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:06:20,958 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:06:20,967 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:06:20,969 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:06:21,073 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:06:21,081 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:06:21,084 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:06:21,792 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:06:21,800 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:06:21,803 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:06:50,804 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:06:50,814 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:06:50,817 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:06:50,835 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:06:50,844 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:06:50,847 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:06:50,878 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:06:50,886 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:06:50,888 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
+2025-12-05 13:06:51,771 [INFO] _route_log:129 - 📧 Getting notifications for email: sai@gmail.com, page: all, limit: 20, offset: 0
+2025-12-05 13:06:51,779 [INFO] _route_log:129 - ✅ Notification tables created or verified successfully
+2025-12-05 13:06:51,782 [INFO] _route_log:129 - ✅ Retrieved 0 notifications, 0 unread for sai@gmail.com (page: all)
