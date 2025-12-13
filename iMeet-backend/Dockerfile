@@ -10,18 +10,22 @@ WORKDIR /app
 # Install system dependencies
 RUN apt-get update && apt-get install -y \
     gcc \
+    g++ \
+    make \
     default-libmysqlclient-dev \
     pkg-config \
     libgl1 \
     libglib2.0-0 \
+    libgomp1 \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements
 COPY requirements.txt .
 
-# Install Python dependencies
+# Install Python dependencies (skip problematic packages)
 RUN pip install --upgrade pip && \
-    pip install --no-cache-dir -r requirements.txt
+    pip install --no-cache-dir -r requirements.txt || \
+    pip install --no-cache-dir $(grep -v -E 'insightface|pycuda' requirements.txt)
 
 # Copy project
 COPY . .
