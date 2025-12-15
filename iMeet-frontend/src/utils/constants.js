@@ -1,12 +1,12 @@
 // ENHANCED: src/utils/constants.js - Complete LiveKit Integration
 
 // FIXED: API Configuration - Base URL without /api suffix to avoid double /api
-export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://192.168.48.201:8111';
-export const WEBSOCKET_URL = import.meta.env.VITE_WEBSOCKET_URL || 'wss://192.168.48.201:8111/wss';
+export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://imeetpro.lancieretech.com';
+export const WEBSOCKET_URL = import.meta.env.VITE_WEBSOCKET_URL || 'wss://imeetpro.lancieretech.com/wss';
 
 // NEW: LiveKit Configuration
 export const LIVEKIT_CONFIG = {
-  url: import.meta.env.VITE_LIVEKIT_URL || 'wss://192.168.48.201:8921',
+  url: import.meta.env.VITE_LIVEKIT_URL || 'wss://imeetpro.lancieretech.com:8921',
   apiKey: import.meta.env.VITE_LIVEKIT_API_KEY || 'jyothi_1a4ef83a56464a698fa56a116feafc48',
   apiSecret: import.meta.env.VITE_LIVEKIT_API_SECRET || '340aef08f9ae6d32debd384b692b4c85828f9cdc034a342eb170cf9b9294676d',
   ttl: 3600, // Token TTL in seconds

@@ -509,7 +509,7 @@ const [audioOutputEnabled, setAudioOutputEnabled] = useState(true);
   };
 
   // ✅ FIXED: Correct API endpoint matching backend
-  const FACE_AUTH_API_URL = 'https://192.168.48.201:8111/api/user/verify-face';
+  const FACE_AUTH_API_URL = 'https://imeetpro.lancieretech.com/api/user/verify-face';
 
   // ==================== MEDIA FUNCTIONS - FIXED ====================
 

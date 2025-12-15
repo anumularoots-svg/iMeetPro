@@ -84,7 +84,7 @@ import SchedulePreview from '../scheduling/SchedulePreview';
 import BulkInvite from "../invitations/BulkInvite";
 
 // FIXED: Consistent API configuration
-const API_BASE_URL = "https://192.168.48.201:8111";
+const API_BASE_URL = "https://imeetpro.lancieretech.com";
 
 const StyledContainer = styled(Box)(({ theme }) => ({
   minHeight: "100vh",

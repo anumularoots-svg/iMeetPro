@@ -1,7 +1,7 @@
 // src/services/feedbackAPI.js
 import axios from 'axios';
 
-const FEEDBACK_BASE_URL = 'https://192.168.48.201:8111/api/feedback'; // Adjust port as needed
+const FEEDBACK_BASE_URL = 'https://imeetpro.lancieretech.com/api/feedback'; // Adjust port as needed
 
 /**
  * Feedback API Service

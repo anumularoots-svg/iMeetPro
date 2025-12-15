@@ -25,7 +25,7 @@ export const useScheduling = () => {
   });
 
   const { user } = useAuth();
-  const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://192.168.48.201:8111/api';
+  const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://imeetpro.lancieretech.com/api';
 
   useEffect(() => {
     if (user) {

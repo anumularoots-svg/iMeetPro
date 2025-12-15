@@ -915,7 +915,7 @@ function App() {
     if (process.env.NODE_ENV === 'development') {
       console.log('Meeting App starting with LiveKit integration and global leave handlers');
       console.log('LiveKit URL:', import.meta.env.VITE_LIVEKIT_URL || 'ws://localhost:7880');
-      console.log('API Base URL:', import.meta.env.VITE_API_BASE_URL || 'https://192.168.48.201:8111');
+      console.log('API Base URL:', import.meta.env.VITE_API_BASE_URL || 'https://imeetpro.lancieretech.com');
       console.log('🎥 Camera Access Control: ENABLED');
       console.log('   ✅ Camera will ONLY activate in WaitingRoom/MeetingRoom');
       console.log('   ❌ Camera will be DISABLED in Dashboard/Profile/Settings');

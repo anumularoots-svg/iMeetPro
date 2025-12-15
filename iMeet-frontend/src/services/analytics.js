@@ -4,7 +4,7 @@ import axios from 'axios';
 // Get base URL from environment or use default
 const ANALYTICS_BASE_URL = import.meta.env.VITE_API_BASE_URL || 
                            import.meta.env.REACT_APP_API_BASE_URL || 
-                           'https://192.168.48.201:8111';
+                           'https://imeetpro.lancieretech.com';
 
 // Create a dedicated axios instance for analytics
 const analyticsClient = axios.create({
