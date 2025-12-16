@@ -23,10 +23,15 @@ RUN apt-get update && apt-get install -y \
 # Copy requirements
 COPY requirements.txt .
 
-# Install Python dependencies
+# Install Python dependencies - First install core, then insightface
 RUN pip install --upgrade pip && \
-    pip install --no-cache-dir onnxruntime insightface && \
-    pip install --no-cache-dir -r requirements.txt || true
+    pip install --no-cache-dir Django mysqlclient gunicorn && \
+    pip install --no-cache-dir onnxruntime && \
+    pip install --no-cache-dir insightface && \
+    pip install --no-cache-dir -r requirements.txt; exit 0
+
+# Verify Django installed
+RUN python -c "import django; print('Django OK')"
 
 # Copy project
 COPY . .
