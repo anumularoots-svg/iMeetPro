@@ -12,14 +12,10 @@ RUN apt-get update && apt-get install -y \
 
 COPY requirements.txt .
 
-# Install ALL dependencies properly
+# Install dependencies - no silent failures
 RUN pip install --upgrade pip && \
-    pip install --no-cache-dir python-dotenv Django mysqlclient gunicorn \
-    onnxruntime insightface && \
-    pip install --no-cache-dir -r requirements.txt || true
-
-# Verify key packages
-RUN python -c "import django; from dotenv import load_dotenv; print('OK')"
+    pip install --no-cache-dir python-dotenv Django mysqlclient gunicorn onnxruntime insightface && \
+    pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
