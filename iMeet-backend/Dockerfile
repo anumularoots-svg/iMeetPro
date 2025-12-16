@@ -17,15 +17,16 @@ RUN apt-get update && apt-get install -y \
     libgl1 \
     libglib2.0-0 \
     libgomp1 \
+    cmake \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements
 COPY requirements.txt .
 
-# Install Python dependencies (skip problematic packages)
+# Install Python dependencies
 RUN pip install --upgrade pip && \
-    pip install --no-cache-dir -r requirements.txt || \
-    pip install --no-cache-dir $(grep -v -E 'insightface|pycuda' requirements.txt)
+    pip install --no-cache-dir onnxruntime insightface && \
+    pip install --no-cache-dir -r requirements.txt || true
 
 # Copy project
 COPY . .
