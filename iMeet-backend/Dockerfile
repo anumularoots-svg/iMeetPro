@@ -12,10 +12,10 @@ RUN apt-get update && apt-get install -y \
 
 COPY requirements.txt .
 
-# Install dependencies - no silent failures
+# Install dependencies - exclude pycuda (needs CUDA)
 RUN pip install --upgrade pip && \
     pip install --no-cache-dir python-dotenv Django mysqlclient gunicorn onnxruntime insightface && \
-    pip install --no-cache-dir -r requirements.txt
+    grep -v pycuda requirements.txt | pip install --no-cache-dir -r /dev/stdin
 
 COPY . .
 
