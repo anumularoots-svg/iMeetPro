@@ -144,7 +144,7 @@ nvidia-nvtx-cu12==12.6.77
 oauthlib==3.3.1
 obsws-python==1.8.0
 onnx==1.19.1
-onnxruntime-gpu==1.18.0
+onnxruntime==1.18.0
 openai==0.28.0
 opencv-contrib-python==4.8.1.78
 opencv-python==4.9.0.80
