@@ -19,6 +19,7 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', include('core.livekit_recording.urls')),
     path('', include('core.WebSocketConnection.meetings')),
     path('', include('core.UserDashBoard.users')),
     path('', include('core.UserDashBoard.Analytics')),
@@ -34,5 +35,4 @@ urlpatterns = [
     path('', include('core.WebSocketConnection.cache_only_hand_raise')),
     path('', include('core.Whiteboard.whiteboard_urls')),
     # path('', include('core.recording_service.urls')),
-    path('', include('core.livekit_recording.urls')),
 ]
