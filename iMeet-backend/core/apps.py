@@ -90,21 +90,19 @@ class CoreConfig(AppConfig):
             
             scheduler = BackgroundScheduler()
             
-            if not scheduler.running:
-                # Schedule cleanup every 5 minutes
-                scheduler.add_job(
-                    func=livekit_service.cleanup_empty_rooms,
-                    trigger="interval",
-                    minutes=5,
-                    id='cleanup_empty_rooms',
-                    name='Cleanup empty LiveKit rooms every 5 minutes',
-                    replace_existing=True,
-                    max_instances=1,
-                    coalesce=True
-                )
-                
-                scheduler.start()
-                logger.info("✅ [STARTUP] Room cleanup scheduler initialized")
+                # DISABLED: Cleanup scheduler disabled for testing
+                # scheduler.add_job(
+                #     func=livekit_service.cleanup_empty_rooms,
+                #     trigger="interval",
+                #     minutes=5,
+                #     id="cleanup_empty_rooms",
+                #     name="Cleanup empty LiveKit rooms every 5 minutes",
+                #     replace_existing=True,
+                #     max_instances=1,
+                #     coalesce=True
+                # )
+                # scheduler.start()
+                logger.info("⚠️ [STARTUP] Cleanup scheduler DISABLED")
                 logger.info("🔄 [SCHEDULER] Cleanup interval: 5 minutes")
                 logger.info("🧹 [SCHEDULER] Auto-deletes empty rooms after 5 minutes of inactivity")
         
