@@ -103,7 +103,7 @@ def join_meeting(request, meeting_id):
             cursor.execute("""
                 SELECT ID, Meeting_Name, Host_ID, LiveKit_Room_Name 
                 FROM tbl_Meetings 
-                WHERE ID = %s OR Meeting_ID = %s
+                WHERE ID = %s OR ID = %s
             """, [meeting_id, meeting_id])
             row = cursor.fetchone()
             
@@ -181,7 +181,7 @@ def join_meeting_livekit(request):
                 cursor.execute("""
                     SELECT ID, Meeting_Name, Host_ID, LiveKit_Room_Name 
                     FROM tbl_Meetings 
-                    WHERE ID = %s OR Meeting_ID = %s
+                    WHERE ID = %s OR ID = %s
                     LIMIT 1
                 """, [meeting_id, meeting_id])
                 row = cursor.fetchone()
