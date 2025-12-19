@@ -2,6 +2,8 @@
 import os
 import json
 import logging
+import jwt
+import time
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from django.views.decorators.http import require_http_methods
@@ -14,12 +16,30 @@ LIVEKIT_API_KEY = os.getenv("LIVEKIT_API_KEY", "api_0582831c57af5e58e53234d70014
 LIVEKIT_API_SECRET = os.getenv("LIVEKIT_API_SECRET", "ee6b633f7a8eeaaf640a1d6f673d1238dcb0a5645ef9886e34709666a1800788")
 LIVEKIT_URL = os.getenv("LIVEKIT_URL", "wss://44.201.44.40:8881")
 
-try:
-    from livekit.api import AccessToken, VideoGrants
-    LIVEKIT_AVAILABLE = True
-except ImportError:
-    LIVEKIT_AVAILABLE = False
-    logger.warning("LiveKit API not available")
+
+def generate_livekit_token(identity, name, room_name, can_publish=True, can_subscribe=True):
+    """Generate LiveKit JWT token manually"""
+    now = int(time.time())
+    exp = now + 86400  # 24 hours
+    
+    claims = {
+        "iss": LIVEKIT_API_KEY,
+        "sub": identity,
+        "name": name,
+        "iat": now,
+        "exp": exp,
+        "nbf": now,
+        "video": {
+            "room": room_name,
+            "roomJoin": True,
+            "canPublish": can_publish,
+            "canSubscribe": can_subscribe,
+            "canPublishData": True
+        }
+    }
+    
+    token = jwt.encode(claims, LIVEKIT_API_SECRET, algorithm="HS256")
+    return token
 
 
 @require_http_methods(["POST"])
@@ -27,11 +47,8 @@ except ImportError:
 def get_livekit_token(request):
     """
     Generate LiveKit token for joining a meeting room
-    Expected payload: { "room_name": "meeting-id", "participant_name": "user-name", "participant_identity": "user-id" }
+    Expected payload: { "room_name": "meeting-id", "participant_name": "user-name" }
     """
-    if not LIVEKIT_AVAILABLE:
-        return JsonResponse({"error": "LiveKit not available"}, status=500)
-    
     try:
         data = json.loads(request.body) if request.body else {}
         
@@ -42,34 +59,18 @@ def get_livekit_token(request):
         if not room_name:
             return JsonResponse({"error": "room_name is required"}, status=400)
         
-        # Create access token
-        token = AccessToken(
-            api_key=LIVEKIT_API_KEY,
-            api_secret=LIVEKIT_API_SECRET
+        # Generate token
+        token = generate_livekit_token(
+            identity=participant_identity,
+            name=participant_name,
+            room_name=room_name
         )
-        
-        # Set participant info
-        token.identity = participant_identity
-        token.name = participant_name
-        
-        # Set video grants (permissions)
-        grant = VideoGrants(
-            room_join=True,
-            room=room_name,
-            can_publish=True,
-            can_subscribe=True,
-            can_publish_data=True,
-        )
-        token.video_grant = grant
-        
-        # Generate JWT token
-        jwt_token = token.to_jwt()
         
         logger.info(f"Generated LiveKit token for {participant_name} in room {room_name}")
         
         return JsonResponse({
             "success": True,
-            "token": jwt_token,
+            "token": token,
             "url": LIVEKIT_URL,
             "room_name": room_name,
             "participant_name": participant_name,
@@ -91,9 +92,6 @@ def join_meeting(request, meeting_id):
     Join a meeting - validates meeting and returns LiveKit token
     Expected payload: { "participant_name": "user-name", "user_id": "user-id" }
     """
-    if not LIVEKIT_AVAILABLE:
-        return JsonResponse({"error": "LiveKit not available"}, status=500)
-    
     try:
         data = json.loads(request.body) if request.body else {}
         
@@ -117,25 +115,12 @@ def join_meeting(request, meeting_id):
         # Use existing room name or create one
         room_name = livekit_room or f"meeting_{db_id}"
         
-        # Create access token
-        token = AccessToken(
-            api_key=LIVEKIT_API_KEY,
-            api_secret=LIVEKIT_API_SECRET
+        # Generate token
+        token = generate_livekit_token(
+            identity=str(user_id),
+            name=participant_name,
+            room_name=room_name
         )
-        
-        token.identity = str(user_id)
-        token.name = participant_name
-        
-        grant = VideoGrants(
-            room_join=True,
-            room=room_name,
-            can_publish=True,
-            can_subscribe=True,
-            can_publish_data=True,
-        )
-        token.video_grant = grant
-        
-        jwt_token = token.to_jwt()
         
         # Update meeting with LiveKit room name if not set
         if not livekit_room:
@@ -149,7 +134,7 @@ def join_meeting(request, meeting_id):
         
         return JsonResponse({
             "success": True,
-            "token": jwt_token,
+            "token": token,
             "url": LIVEKIT_URL,
             "room_name": room_name,
             "meeting_id": meeting_id,
