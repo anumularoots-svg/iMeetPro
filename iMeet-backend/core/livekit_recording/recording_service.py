@@ -1396,7 +1396,7 @@ class FixedRecordingBot:
                 logger.error(f"❌ WSS connection failed: {e}")
                 logger.info("🔄 Trying direct HTTP fallback...")
                 
-                http_url = "ws://192.168.48.201:8880"
+                http_url = "ws://44.201.44.40:8880"
                 try:
                     await asyncio.wait_for(
                         self.room.connect(http_url, self.token),

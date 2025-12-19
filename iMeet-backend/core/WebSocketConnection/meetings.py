@@ -150,7 +150,7 @@ class ProductionLiveKitService:
         
         # Optional Redis connection
         try:
-            self.redis_client = redis.Redis(host='192.168.48.201', port=6379, db=0, decode_responses=True)
+            self.redis_client = redis.Redis(host=os.getenv('REDIS_HOST', 'localhost'), port=int(os.getenv('REDIS_PORT', 6379)), db=0, decode_responses=True)
             self.redis_client.ping()
             logging.info("✅ Redis connected for caching")
         except:
@@ -2252,7 +2252,7 @@ def Create_Calendar_Meeting(request):
     status = calculate_meeting_status(start_dt, end_dt, duration)
 
     # --- Base meeting data ---
-    meeting_url = f"https://192.168.48.201:5173/meeting/{meeting_id}"
+    meeting_url = f"https://imeetpro.lancieretech.com/meeting/{meeting_id}"
     livekit_room = f"meeting_{meeting_id}"
     created_at = timezone.now().astimezone(ist).strftime('%Y-%m-%d %H:%M:%S')
 
@@ -2655,7 +2655,7 @@ def Create_Schedule_Meeting(request):
             'host_id': host_id,
             'meeting_name': data.get('Meeting_Name', '').strip(),
             'meeting_type': 'ScheduleMeeting',
-            'meeting_link': f"https://192.168.48.201:5173/meeting/{meeting_id}",
+            'meeting_link': f"https://imeetpro.lancieretech.com/meeting/{meeting_id}",
             'livekit_room_name': f"meeting_{meeting_id}",
             'status': initial_status,  # CHANGED: Use calculated status
             'started_at': started_at,
@@ -2933,7 +2933,7 @@ def Create_Instant_Meeting(request):
     meeting_id = create_meeting_id()
     logging.info(f"Generated Meeting ID: {meeting_id}")
 
-    base_url = "https://192.168.48.201:5173"
+    base_url = "https://imeetpro.lancieretech.com"
     data['Meeting_Link'] = f"{base_url}/meeting/{meeting_id}"
     data['LiveKit_Room_Name'] = f"meeting_{meeting_id}"
 
@@ -5354,7 +5354,7 @@ def bulk_send_invitations(request):
             'meeting_title': meeting_title,
             'guest_emails': valid_emails,
             'meeting_type': 'BulkInvite',
-            'meeting_url': f"https://192.168.48.201:5173/meeting/{meeting_id}" if meeting_id else None
+            'meeting_url': f"https://imeetpro.lancieretech.com/meeting/{meeting_id}" if meeting_id else None
         }
         
         # If we have meeting data, add more details
