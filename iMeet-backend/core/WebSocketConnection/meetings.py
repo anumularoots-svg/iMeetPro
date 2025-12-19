@@ -763,13 +763,13 @@ class ProductionLiveKitService:
                                 try:
                                     # Close the room in LiveKit
                                     self.close_room(room_name)
-                                    
-                                    # Mark as ended in database
-                                    cursor.execute("""
-                                        UPDATE tbl_Meetings
-                                        SET Status = 'ended', Ended_At = %s
-                                        WHERE ID = %s
-                                    """, [current_time, meeting_id])
+                                    # DISABLED:                                     
+                                    # DISABLED:                                     # Mark as ended in database
+                                    # DISABLED:                                     cursor.execute("""
+                                    # DISABLED:                                         UPDATE tbl_Meetings
+                                    # DISABLED:                                         SET Status = 'ended', Ended_At = %s
+                                    # DISABLED:                                         WHERE ID = %s
+                                    # DISABLED:                                     """, [current_time, meeting_id])
                                     
                                     logging.info(f"✅ [CLEANUP] Cleaned up room: {room_name} (Meeting: {meeting_id})")
                                     cleanup_results['rooms_cleaned'] += 1
