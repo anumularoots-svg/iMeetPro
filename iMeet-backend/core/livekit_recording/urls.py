@@ -7,6 +7,7 @@ from . import token_views
 urlpatterns = [
     # LiveKit Token APIs (for joining meetings)
     path('api/livekit/token', token_views.get_livekit_token, name='get_livekit_token'),
+    path('api/livekit/join-meeting/', token_views.join_meeting_livekit, name='join_meeting_livekit'),
     path('api/meetings/<str:meeting_id>/join', token_views.join_meeting, name='join_meeting'),
     
     # Stream Recording APIs

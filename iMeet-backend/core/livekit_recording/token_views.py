@@ -148,3 +148,85 @@ def join_meeting(request, meeting_id):
             "error": str(e),
             "success": False
         }, status=500)
+
+
+@require_http_methods(["POST"])
+@csrf_exempt
+def join_meeting_livekit(request):
+    """
+    Join meeting via LiveKit - matches frontend expectation
+    Expected payload: { "meeting_id": "...", "user_id": "...", "user_name": "...", "is_host": false }
+    """
+    try:
+        data = json.loads(request.body) if request.body else {}
+        
+        meeting_id = data.get('meeting_id') or data.get('meetingId')
+        user_id = data.get('user_id') or data.get('userId')
+        user_name = data.get('user_name') or data.get('displayName') or data.get('userName', 'Guest')
+        is_host = data.get('is_host') or data.get('isHost', False)
+        
+        if not meeting_id:
+            return JsonResponse({"error": "meeting_id is required", "success": False}, status=400)
+        
+        # Generate participant identity
+        participant_identity = f"user_{user_id}" if user_id else user_name
+        
+        # Create room name from meeting ID
+        room_name = f"meeting_{meeting_id}"
+        
+        # Try to get meeting info from database
+        meeting_info = None
+        try:
+            with connection.cursor() as cursor:
+                cursor.execute("""
+                    SELECT ID, Meeting_Name, Host_ID, LiveKit_Room_Name 
+                    FROM tbl_Meetings 
+                    WHERE ID = %s OR Meeting_ID = %s
+                    LIMIT 1
+                """, [meeting_id, meeting_id])
+                row = cursor.fetchone()
+                
+                if row:
+                    db_id, meeting_name, host_id, livekit_room = row
+                    room_name = livekit_room or f"meeting_{db_id}"
+                    meeting_info = {
+                        "id": db_id,
+                        "name": meeting_name,
+                        "host_id": host_id
+                    }
+                    
+                    # Update LiveKit room name if not set
+                    if not livekit_room:
+                        cursor.execute(
+                            "UPDATE tbl_Meetings SET LiveKit_Room_Name = %s WHERE ID = %s",
+                            [room_name, db_id]
+                        )
+        except Exception as db_error:
+            logger.warning(f"DB lookup failed, using meeting_id directly: {db_error}")
+        
+        # Generate token
+        token = generate_livekit_token(
+            identity=participant_identity,
+            name=user_name,
+            room_name=room_name,
+            can_publish=True,
+            can_subscribe=True
+        )
+        
+        logger.info(f"LiveKit join: user={user_name}, room={room_name}, is_host={is_host}")
+        
+        return JsonResponse({
+            "success": True,
+            "access_token": token,
+            "livekit_url": LIVEKIT_URL,
+            "room_name": room_name,
+            "participant_identity": participant_identity,
+            "meeting_info": meeting_info
+        })
+        
+    except Exception as e:
+        logger.error(f"Error in join_meeting_livekit: {e}")
+        return JsonResponse({
+            "error": str(e),
+            "success": False
+        }, status=500)
