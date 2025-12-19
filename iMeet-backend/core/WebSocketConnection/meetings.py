@@ -738,7 +738,7 @@ class ProductionLiveKitService:
                     cleanup_results['rooms_checked'] = len(meetings)
                     
                     current_time = timezone.now()
-                    cleanup_timeout = timedelta(minutes=5)
+                    cleanup_timeout = timedelta(minutes=60)
                     
                     for meeting_id, room_name, created_at, status in meetings:
                         try:
