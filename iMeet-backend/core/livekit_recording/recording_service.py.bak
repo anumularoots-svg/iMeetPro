@@ -1825,12 +1825,12 @@ class FixedGoogleMeetRecorder:
     
     def __init__(self):
         # CORRECTED: Use HTTPS URL for API calls, WSS for WebSocket
-        self.livekit_url = os.getenv("LIVEKIT_URL", "https://44.201.44.40:8881")
-        self.livekit_wss_url = os.getenv("LIVEKIT_WSS_URL", "wss://44.201.44.40:8881")
+        self.livekit_url = os.getenv("LIVEKIT_URL", "https://192.168.48.201:8881")
+        self.livekit_wss_url = os.getenv("LIVEKIT_WSS_URL", "wss://192.168.48.201:8881")
         
         # Get API credentials from environment
-        self.api_key = os.getenv("LIVEKIT_API_KEY", "api_0582831c57af5e58e53234d700146c24")
-        self.api_secret = os.getenv("LIVEKIT_API_SECRET", "ee6b633f7a8eeaaf640a1d6f673d1238dcb0a5645ef9886e34709666a1800788")
+        self.api_key = os.getenv("LIVEKIT_API_KEY", "sridhar_ec9969265170a7d374da49d6b55f8ff4")
+        self.api_secret = os.getenv("LIVEKIT_API_SECRET", "409150d1e2f40c1ebfcdd414c9c7b25c662d3770c08c1a6a945db8209ebfff3c")
         
         # 🎬 FAST VIDEO SETTINGS
         self.target_fps = int(os.getenv("FAST_VIDEO_FPS", "20"))  # Configurable target FPS
