@@ -5828,7 +5828,6 @@ urlpatterns = [
     path('api/meetings/<str:id>/allow-from-waiting-room', Allow_From_Waiting_Room, name='Allow_From_Waiting_Room'),
     
     # LiveKit core endpoints
-    path('api/livekit/join-meeting/', join_livekit_meeting, name='join_livekit_meeting'),
     path('api/livekit/leave-meeting/', leave_livekit_meeting, name='leave_livekit_meeting'),
     path('api/livekit/participants/<str:meeting_id>/', get_meeting_participants, name='get_meeting_participants'),
     path('api/livekit/connection-info/<str:meeting_id>/', get_livekit_connection_info, name='get_livekit_connection_info'),
