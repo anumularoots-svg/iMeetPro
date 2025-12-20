@@ -474,6 +474,13 @@ useEffect(() => {
   // Cleanup on unmount
   useEffect(() => {
     return () => {
+      const isJoiningMeeting = sessionStorage.getItem('joiningMeeting') === 'true';
+      const meetingEnded = sessionStorage.getItem('meetingEnded') === 'true';
+
+      if (isJoiningMeeting || !meetingEnded) {
+        console.log('⏳ Skipping hand raise cleanup - meeting still active');
+        return;
+      }
       cleanup();
     };
   }, [cleanup]);
