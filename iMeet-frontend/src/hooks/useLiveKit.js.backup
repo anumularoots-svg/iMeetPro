@@ -3335,42 +3335,38 @@ const refreshAudioTrack = useCallback(async () => {
   const connectToRoom = useCallback(
     async (meetingId, userId, displayName, options = {}) => {
       try {
-        // ✅ FIX: Check connection lock FIRST
+        if (roomRef.current) {
+          try {
+            await roomRef.current.disconnect();
+          } catch (e) {}
+          roomRef.current = null;
+
+          cleanupAllAudioElements();
+          localParticipantSidRef.current = null;
+          localParticipantIdentityRef.current = null;
+
+          // ✅ Clear remote participants on disconnect
+          remoteParticipantsRef.current = new Map();
+          setRemoteParticipantsState(new Map());
+
+          await new Promise((resolve) => setTimeout(resolve, 1000));
+        }
+
         if (connectionLockRef.current) {
-          console.log("⏳ Connection already in progress...");
           if (activeConnectionRef.current) {
             return await activeConnectionRef.current;
           }
           return { success: false, error: "Connection in progress" };
         }
 
-        // ✅ Check if already connected to SAME meeting
         if (
           isConnectedRef.current &&
-          roomRef.current?.state === ConnectionState.Connected &&
-          currentMeetingIdRef.current === meetingId
+          roomRef.current?.state === ConnectionState.Connected
         ) {
-          console.log("✅ Already connected to this meeting");
           return { success: true, room: roomRef.current };
         }
 
-        // ✅ NOW acquire lock BEFORE disconnect
         connectionLockRef.current = true;
-
-        // ✅ NOW safe to cleanup old connection
-        if (roomRef.current) {
-          try {
-            console.log("🔄 Cleaning up previous connection...");
-            await roomRef.current.disconnect();
-          } catch (e) {}
-          roomRef.current = null;
-          cleanupAllAudioElements();
-          localParticipantSidRef.current = null;
-          localParticipantIdentityRef.current = null;
-          remoteParticipantsRef.current = new Map();
-          setRemoteParticipantsState(new Map());
-          await new Promise((resolve) => setTimeout(resolve, 300));
-        }
 
         const connectionPromise = (async () => {
           try {
@@ -3378,6 +3374,10 @@ const refreshAudioTrack = useCallback(async () => {
             setIsConnecting(true);
             setError(null);
             setMeetingEnded(false);
+
+            if (roomRef.current) {
+              await cleanupExistingConnection();
+              await new Promise((resolve) => setTimeout(resolve, 1000));
             }
 
             if (!meetingId || !userId || !displayName) {
