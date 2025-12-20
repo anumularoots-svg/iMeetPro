@@ -1185,7 +1185,11 @@ const MeetingPage = () => {
   }
 
   // Use only LiveKit state for waiting room decision
-  const shouldShowWaitingRoom = showWaitingRoom ||
+  const hasTransitionedToMeetingRoom = !showWaitingRoom && hasTriedJoin;
+
+  const shouldShowWaitingRoom = hasTransitionedToMeetingRoom 
+    ? false  // Stay in MeetingRoom - don't flip back on connection drops
+    : (showWaitingRoom ||
     isJoining ||
     livekitConnecting ||
     !livekitConnected ||
