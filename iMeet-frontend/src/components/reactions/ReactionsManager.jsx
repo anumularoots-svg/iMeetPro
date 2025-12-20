@@ -240,6 +240,13 @@ useEffect(() => {
   // ===== Cleanup on Unmount =====
   useEffect(() => {
     return () => {
+      const isJoiningMeeting = sessionStorage.getItem('joiningMeeting') === 'true';
+      const meetingEnded = sessionStorage.getItem('meetingEnded') === 'true';
+
+      if (isJoiningMeeting || !meetingEnded) {
+        console.log('⏳ Skipping ReactionsManager cleanup - meeting still active');
+        return;
+      }
       if (cleanupTriggered.current) return;
       cleanupTriggered.current = true;
 
