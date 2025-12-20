@@ -1250,6 +1250,10 @@ const refreshAudioTrack = useCallback(async () => {
   const handleDisconnection = useCallback(
     (reason) => {
       // Check if this is a forced disconnection (user was removed)
+      if (connectionAttemptRef.current || connectionLockRef.current) {
+        console.log("⏳ Ignoring disconnect - connection in progress");
+        return;
+      }
       const isForcedDisconnect =
         reason === "KICKED" ||
         reason === "REMOVED" ||
