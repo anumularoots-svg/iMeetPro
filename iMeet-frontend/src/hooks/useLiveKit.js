@@ -5737,10 +5737,11 @@ const refreshAudioTrack = useCallback(async () => {
   // FIXED: Add proper useEffect for cleanup on unmount
   useEffect(() => {
     return () => {
-      cleanupAllAudioElements();
-      if (roomRef.current) {
-        roomRef.current.disconnect();
+      if (connectionAttemptRef.current || connectionLockRef.current) {
+        console.log("⏳ Skipping cleanup - connection in progress");
+        return;
       }
+        cleanupAllAudioElements();
     };
   }, [cleanupAllAudioElements]);
 
