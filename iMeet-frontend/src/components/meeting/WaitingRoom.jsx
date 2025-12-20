@@ -1184,7 +1184,7 @@ useEffect(() => {
 // ==================== CLEANUP ON UNMOUNT ====================
 useEffect(() => {
   return () => {
-    console.log('🧹 WaitingRoom unmounting - releasing camera via hook');
+    console.log('🧹 WaitingRoom unmounting - MeetingRoom will handle camera');
     releaseCamera();
     
     if (audioStream) {
