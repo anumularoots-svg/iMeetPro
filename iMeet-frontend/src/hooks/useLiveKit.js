@@ -3378,8 +3378,7 @@ const refreshAudioTrack = useCallback(async () => {
             setIsConnecting(true);
             setError(null);
             setMeetingEnded(false);
-            }
-
+            
             if (!meetingId || !userId || !displayName) {
               throw new Error("Missing required parameters");
             }
