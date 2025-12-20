@@ -1196,7 +1196,7 @@ const MeetingPage = () => {
     !hasTriedJoin ||
     !room ||
     room.state !== 'connected' ||
-    !localParticipant;
+    !localParticipant);
 
   console.log('🎭 Render decision:', {
     shouldShowWaitingRoom,
