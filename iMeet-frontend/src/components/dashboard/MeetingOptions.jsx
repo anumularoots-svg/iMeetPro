@@ -59,7 +59,7 @@ const MeetingOptions = () => {
       color: '#4CAF50',
       features: ['Start immediately', 'Share link', 'No scheduling'],
       action: 'Start Now',
-      route: '/meeting/instant'
+      route: '/instant-meeting'
     },
     {
       id: 'schedule',
