@@ -1496,8 +1496,9 @@ const [forceStopTargetParticipant, setForceStopTargetParticipant] = useState(nul
         }
 
         // Determine role
-        const participantRole = existingParticipant?.role || "participant";
-        const participantIsHost = existingParticipant?.isHost || participantRole === "host";
+        const meetingHostId = meetingData?.Host_ID || meetingData?.host_id || meetingData?.hostId;
+        const participantRole = existingParticipant?.role || (userId?.toString() === meetingHostId?.toString() ? "host" : "participant");
+        const participantIsHost = existingParticipant?.isHost || participantRole === "host" || userId?.toString() === meetingHostId?.toString();
         const participantIsCoHost = coHosts.some(
           (cohost) => cohost.user_id?.toString() === userId?.toString()
         );
