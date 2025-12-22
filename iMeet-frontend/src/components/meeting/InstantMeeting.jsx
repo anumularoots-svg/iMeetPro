@@ -45,6 +45,7 @@ import {
 } from '@mui/icons-material';
 import { styled } from '@mui/material/styles';
 import { useNavigate } from 'react-router-dom';
+import { API_BASE_URL, API_ENDPOINTS } from '../../utils/constants';
 
 const StyledContainer = styled(Box)(({ theme }) => ({
   minHeight: '100vh',
@@ -105,6 +106,7 @@ function InstantMeeting({ onMeetingCreated, userProfile }) {
   const [showShareDialog, setShowShareDialog] = useState(false);
   const [copySuccess, setCopySuccess] = useState(false);
   const [showAdvancedSettings, setShowAdvancedSettings] = useState(false);
+  const [error, setError] = useState('');
 
   useEffect(() => {
     // Set default meeting title
@@ -113,41 +115,74 @@ function InstantMeeting({ onMeetingCreated, userProfile }) {
     setMeetingTitle(defaultTitle);
   }, [userProfile]);
 
-  const generateMeetingId = () => {
-    return Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
-  };
-
+  // ✅ FIX: Call actual backend API instead of mock
   const handleCreateMeeting = async () => {
     setIsCreating(true);
+    setError('');
     
     try {
-      // Simulate API call to create meeting
-      const newMeetingId = generateMeetingId();
-      const newMeetingLink = `${window.location.origin}/meeting/${newMeetingId}`;
+      // Get host ID from userProfile or localStorage
+      const hostId = userProfile?.id || userProfile?.userId || 
+                     JSON.parse(localStorage.getItem('meeting_app_user') || '{}')?.id;
       
-      // Simulate backend API call
-      const meetingData = {
-        id: newMeetingId,
-        title: meetingTitle,
-        hostId: userProfile?.id,
-        meetingType: 'InstantMeeting',
-        meetingLink: newMeetingLink,
-        status: 'active',
-        createdAt: new Date().toISOString(),
-        settings: meetingSettings,
+      if (!hostId) {
+        throw new Error('User not authenticated. Please login again.');
+      }
+
+      const payload = {
+        Host_ID: hostId,
+        Meeting_Name: meetingTitle || 'Instant Meeting',
+        Is_Recording_Enabled: meetingSettings.recording ? 1 : 0,
+        Waiting_Room_Enabled: meetingSettings.waitingRoom ? 1 : 0,
       };
 
-      // Simulate delay
-      await new Promise(resolve => setTimeout(resolve, 2000));
+      console.log('Creating instant meeting with payload:', payload);
+
+      const response = await fetch(`${API_BASE_URL}${API_ENDPOINTS.CREATE_INSTANT_MEETING}`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(payload),
+      });
+
+      const result = await response.json();
+      console.log('Instant meeting API response:', result);
+
+      if (!response.ok) {
+        throw new Error(result.Error || result.error || 'Failed to create meeting');
+      }
+
+      // Handle duplicate prevention response
+      if (result.Duplicate_Prevented) {
+        console.log('Duplicate meeting prevented, using existing:', result.Meeting_ID);
+      }
+
+      // Extract meeting ID and link from response
+      const newMeetingId = result.Meeting_ID || result.meeting_id || result.id;
+      const newMeetingLink = result.Meeting_Link || result.meeting_link || 
+                             `${window.location.origin}/meeting/${newMeetingId}`;
       
       setMeetingId(newMeetingId);
       setMeetingLink(newMeetingLink);
       setShowSuccess(true);
       
-      onMeetingCreated?.(meetingData);
+      // Callback with meeting data
+      onMeetingCreated?.({
+        id: newMeetingId,
+        title: meetingTitle,
+        hostId: hostId,
+        meetingType: 'InstantMeeting',
+        meetingLink: newMeetingLink,
+        status: 'active',
+        createdAt: new Date().toISOString(),
+        settings: meetingSettings,
+        livekitRoomName: result.LiveKit_Room_Name,
+      });
       
     } catch (error) {
       console.error('Error creating meeting:', error);
+      setError(error.message || 'Failed to create meeting. Please try again.');
     } finally {
       setIsCreating(false);
     }
@@ -367,6 +402,13 @@ function InstantMeeting({ onMeetingCreated, userProfile }) {
             </Typography>
           </Box>
 
+          {/* Error Alert */}
+          {error && (
+            <Alert severity="error" sx={{ mb: 3 }} onClose={() => setError('')}>
+              {error}
+            </Alert>
+          )}
+
           {/* Meeting Title */}
           <TextField
             fullWidth
@@ -532,5 +574,4 @@ function InstantMeeting({ onMeetingCreated, userProfile }) {
     </StyledContainer>
   );
 }
-
 export default InstantMeeting;
