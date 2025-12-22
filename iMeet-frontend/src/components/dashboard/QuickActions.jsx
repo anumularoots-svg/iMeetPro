@@ -426,7 +426,7 @@ const QuickActions = () => {
   // FIXED: Direct navigation to instant meeting like "Start Now" button
   const handleInstantMeeting = () => {
     console.log('🚀 Quick Actions: Navigating to instant meeting...');
-    navigate('/meeting/instant');
+    navigate('/instant-meeting');
   };
 
   const quickActions = [
