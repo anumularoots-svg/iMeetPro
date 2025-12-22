@@ -72,7 +72,7 @@ const DashboardLayout = ({ children, badges = {} }) => {
         {
           text: "Instant Meeting",
           icon: <PlayCircle />,
-          path: "/meeting/instant",
+          path: "/instant-meeting",
         },
         {
           text: "Schedule Meeting",
