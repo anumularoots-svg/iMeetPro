@@ -287,7 +287,8 @@ const ProcessingCard = styled(Card)(({ theme }) => ({
 
 const MeetingPage = () => {
   const theme = useTheme();
-  const { meetingId } = useParams();
+  const { meetingId: urlMeetingId } = useParams();
+  const meetingId = urlMeetingId || (window.location.pathname.includes('/instant-meeting') ? 'instant' : undefined);
   const navigate = useNavigate();
   const { user } = useAuth();
   const {
