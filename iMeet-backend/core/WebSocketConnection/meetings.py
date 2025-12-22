@@ -2903,29 +2903,29 @@ def Create_Instant_Meeting(request):
     # =====================================================================
     # ⭐ CRITICAL FIX — PREVENT DUPLICATE INSTANT MEETINGS
     # =====================================================================
-    try:
-        with connection.cursor() as cursor:
-            cursor.execute("""
-                SELECT ID
-                FROM tbl_Meetings
-                WHERE Host_ID = %s
-                  AND Meeting_Type = 'InstantMeeting'
-                  AND TIMESTAMPDIFF(SECOND, Created_At, NOW()) <= 10
-                ORDER BY Created_At DESC
-                LIMIT 1
-            """, [data['Host_ID']])
-            existing = cursor.fetchone()
+    #try:
+     #   with connection.cursor() as cursor:
+      #      cursor.execute("""
+       #         SELECT ID
+        #        FROM tbl_Meetings
+         #       WHERE Host_ID = %s
+          #        AND Meeting_Type = 'InstantMeeting'
+           #       AND TIMESTAMPDIFF(SECOND, Created_At, NOW()) <= 10
+            #    ORDER BY Created_At DESC
+             #   LIMIT 1
+      #      """, [data['Host_ID']])
+       #     existing = cursor.fetchone()
 
-        if existing:
+ #       if existing:
             # If duplicate detected, return existing meeting
-            return JsonResponse({
-                "Message": "InstantMeeting already active",
-                "Meeting_ID": existing[0],
-                "Duplicate_Prevented": True
-            }, status=200)
+  #          return JsonResponse({
+   #             "Message": "InstantMeeting already active",
+    #            "Meeting_ID": existing[0],
+     #           "Duplicate_Prevented": True
+      #      }, status=200)
 
-    except Exception as e:
-        logging.error(f"Duplicate prevent error: {e}")
+#    except Exception as e:
+ #       logging.error(f"Duplicate prevent error: {e}")
     # =====================================================================
 
     # ------------------------- Generate New Meeting -------------------------
