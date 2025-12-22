@@ -1398,6 +1398,11 @@ const [forceStopTargetParticipant, setForceStopTargetParticipant] = useState(nul
         if (participant.identity?.includes("user_")) {
           userId = participant.identity.split("_")[1];
         }
+        // ✅ SKIP invalid participants (bots, recorders, invalid identities)
+        if (!userId || userId === 'Participant' || userId === 'undefined' || userId === 'null') {
+          console.log(`⚠️ Skipping invalid participant: ${participant.identity}`);
+          return;
+        }
 
         const userKey = userId?.toString();
         
