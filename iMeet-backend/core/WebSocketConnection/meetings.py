@@ -260,6 +260,7 @@ class ProductionLiveKitService:
             payload = {
                 'iss': self.config['api_key'],
                 'sub': participant_name,
+                'name': metadata.get('full_name', participant_name) if metadata else participant_name,
                 'iat': now,
                 'nbf': now,
                 'exp': now + self.config.get('ttl', 7200),  # Extended to 2 hours for stability
