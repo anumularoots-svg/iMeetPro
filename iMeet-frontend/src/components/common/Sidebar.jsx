@@ -96,7 +96,7 @@ const Sidebar = ({ open, onClose, variant = "temporary" }) => {
         {
           text: "Instant Meeting",
           icon: <PlayCircle />,
-          path: "/meeting/instant",
+          path: "/instant-meeting",
         },
         {
           text: "Schedule Meeting",
